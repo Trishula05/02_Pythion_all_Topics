@@ -36,4 +36,28 @@ This files contain the following topics
 
 -check_whether_the_triangle_is_valid_or_not
 
+-odd_or_even_in_def_function
 
+-over writing
+
+-arguments-argv
+
+-nested function 
+
+-loops
+
+-Checking whether the year is leap year on not
+
+-ATM basic flow program
+
+-To find whether the number is odd or even
+
+-odd or even in nested if
+
+-Nested loop
+
+-return function
+
+-f string call the return
+
+-while loop
